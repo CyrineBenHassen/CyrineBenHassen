@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Cyrine, an engineering student at TEK-UP University in Tunisia.<br><br>🔭 I’m working on web and mobile development projects.<br> I enjoy coding challenges and exploring new tech. 🚀</p>
+<p align="left">I'm Cyrine, an engineering student at TEK-UP University in Tunisia.<br><br>🔭I'm diving into web and mobile dev projects, always coding with passion.<br> I love tackling coding challenges and exploring the latest tech🚀</p>
 
 ###
 
@@ -83,13 +83,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CyrineBenHassen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CyrineBenHassen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CyrineBenHassen.CyrineBenHassen&"  />
 </div>
 
 ###
